@@ -58,7 +58,7 @@ Testing the HTML rendering can be done by running `npm run build-html` inside th
 
 ### Customizing Client-Side Scripts (JS)
 
-The client-side scripts are bundled using Webpack (https://webpack.js.org/) using the `require()` syntax.
+The client-side scripts are bundled using **Webpack** (https://webpack.js.org/) using the `require()` syntax.
 
 The relevant directories and assets for modifying HTML are the following:
 
@@ -75,7 +75,7 @@ Testing the JS build process can be done by running `npm run build-js` inside th
 
 ### Customizing Stylesheets
 
-The Stylesheet(s) are precompiled using node-sass and are written in the Sass/SCSS syntax; more information can be found here: https://sass-lang.com/
+The Stylesheet(s) are precompiled using node-sass and are written in the **Sass/SCSS** syntax; more information can be found here: https://sass-lang.com/
 
 ```
 - src/
